@@ -1,0 +1,28 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.restart button {
+    float: center;
+    border: 1px solid white;
+}
+
+.heading h3{
+    display: inline;
+
+}
+
+.modal-dialog{
+    width: 70%;
+}
+
+.modal-body{
+    text-align: left;
+    font-size: 20px;
+}
+
+canvas{
+    border: 3px solid white;
+    border-radius: 20px;
+}
